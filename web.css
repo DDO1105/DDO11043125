@@ -246,6 +246,7 @@ main {
 }
 .cerf-section{
     position:relative;
+    float: left;
     left: 160px;
     width: 45%;
     margin: 20px;
